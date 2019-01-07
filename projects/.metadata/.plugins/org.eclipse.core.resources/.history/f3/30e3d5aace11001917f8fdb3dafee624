@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/earltacccess/nanumgothic.css);
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script');
+
+* {
+	font-family : 'Nanum Gothic';
+}
+
+h1 {
+	font-family: 'Nanum Pen Script', cursive;
+}
